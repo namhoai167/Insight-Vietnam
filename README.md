@@ -1,5 +1,5 @@
 # Insight-Vietnam
-Dữ liệu lấy từ [Tổng cục thống kê](gso.gov.vn)
+Dữ liệu lấy từ [Tổng cục thống kê](www.gso.gov.vn)
 
 2.18 Tỷ suất chết của trẻ em dưới 1 tuổi phân theo địa phương  
 - Tỷ suất chết của trẻ em dưới một tuổi (Trẻ em dưới năm tuổi tử vong/1000 trẻ sinh sống)
