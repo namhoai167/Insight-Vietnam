@@ -30,3 +30,14 @@ thành phố Cần Thơ gồm cả tỉnh Hậu Giang.
 - Chưa kể cơ sở tư nhân.
 - Số liệu Cán bộ ngành y - Bác sĩ năm 2019 không bao gồm số bác sĩ thuộc tuyến Trung ương quản lý.
 - Cán bộ ngành dược năm 2012 bao gồm cả nhân lực ngành dược của các cơ sở y tế tư nhân.
+
+11.16 Tỷ lệ trẻ em dưới một tuổi được tiêm chủng đầy đủ các loại vắc xin phân theo địa phương
+- Đơn vị tính theo phần trăm (%)
+
+Dữ liệu được chọn để tiền xử lý là 11.16 Tỷ lệ trẻ em dưới một tuổi được tiêm chủng đầy đủ các loại vắc xin phân theo địa phương, 2.18 Tỷ suất chết của trẻ em dưới 1 tuổi phân theo địa phương và 2.19 Tỷ suất chết của trẻ em dưới 5 tuổi phân theo địa phương.
+Dữ liệu sau khi tiền xử lý và join 3 file trên là "Tỷ lệ tiêm chủng và tỷ suất chết của trẻ em Việt Nam.csv". Dữ liệu gồm 5 trường:
+- Khu vực: Gồm 71 giá trị là Cả nước, 6 vùng kinh tế (gồm Trung du và miền núi phía Bắc, Đồng bằng sông Hồng, Bắc Trung Bộ và Duyên hải miền Trung, Tây Nguyên, Đông Nam Bộ và Đồng bằng sông Cửu Long) và 63 tỉnh thành phố
+- Năm: gồm 8 giá trị là từ 2013 đến 2019
+- Tỷ lệ trẻ em dưới một tuổi được tiêm chủng đầy đủ các loại vắc xin
+- Tỷ suất chết của trẻ em dưới 1 tuổi
+- Tỷ suất chết của trẻ em dưới 5 tuổi
